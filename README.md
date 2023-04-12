@@ -1,2 +1,1 @@
-# ---template
-# quote-generator
+# infinite-scroll-project
